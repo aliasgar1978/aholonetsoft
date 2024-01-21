@@ -17,7 +17,7 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'aholo-Net-Soft'
+project = 'AHOLO-NET-SOFT'
 copyright = '2023, AHOLO NETWROKING & SOFTWARE'
 author = 'ALIASGAR HOZAIFA LOKHANDWALA'
 
